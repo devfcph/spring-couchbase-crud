@@ -1,0 +1,10 @@
+/home/cristobal/GS/Streaming/devs/couchbase/repos externos/java-springboot-quickstart/src/main/java/org/couchbase/quickstart/configs/DBProperties.java
+/home/cristobal/GS/Streaming/devs/couchbase/repos externos/java-springboot-quickstart/src/main/java/org/couchbase/quickstart/Application.java
+/home/cristobal/GS/Streaming/devs/couchbase/repos externos/java-springboot-quickstart/src/main/java/org/couchbase/quickstart/models/Profile.java
+/home/cristobal/GS/Streaming/devs/couchbase/repos externos/java-springboot-quickstart/src/main/java/org/couchbase/quickstart/configs/CouchbaseConfig.java
+/home/cristobal/GS/Streaming/devs/couchbase/repos externos/java-springboot-quickstart/src/main/java/org/couchbase/quickstart/controllers/HealthCheckController.java
+/home/cristobal/GS/Streaming/devs/couchbase/repos externos/java-springboot-quickstart/src/main/java/org/couchbase/quickstart/configs/CollectionNames.java
+/home/cristobal/GS/Streaming/devs/couchbase/repos externos/java-springboot-quickstart/src/main/java/org/couchbase/quickstart/controllers/ProfileController.java
+/home/cristobal/GS/Streaming/devs/couchbase/repos externos/java-springboot-quickstart/src/main/java/org/couchbase/quickstart/configs/Swagger.java
+/home/cristobal/GS/Streaming/devs/couchbase/repos externos/java-springboot-quickstart/src/main/java/org/couchbase/quickstart/runners/DBSetupRunner.java
+/home/cristobal/GS/Streaming/devs/couchbase/repos externos/java-springboot-quickstart/src/main/java/org/couchbase/quickstart/models/ProfileRequest.java

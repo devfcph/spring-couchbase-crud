@@ -1,0 +1,15 @@
+org/couchbase/quickstart/controllers/ProfileController.class
+org/couchbase/quickstart/runners/DBSetupRunner.class
+org/couchbase/quickstart/models/ProfileRequest.class
+org/couchbase/quickstart/models/beersample/Beer$BeerBuilder.class
+org/couchbase/quickstart/Application.class
+org/couchbase/quickstart/models/beersample/Beer.class
+org/couchbase/quickstart/models/beersample/BeerRequest.class
+org/couchbase/quickstart/controllers/HealthCheckController.class
+org/couchbase/quickstart/models/Profile.class
+org/couchbase/quickstart/configs/DBProperties.class
+org/couchbase/quickstart/configs/Swagger.class
+org/couchbase/quickstart/configs/CollectionNames.class
+org/couchbase/quickstart/configs/CouchbaseConfig.class
+org/couchbase/quickstart/models/beersample/BeerRequest$BeerRequestBuilder.class
+org/couchbase/quickstart/controllers/beersample/BeerController.class
